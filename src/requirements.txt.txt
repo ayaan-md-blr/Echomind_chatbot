@@ -1,0 +1,5 @@
+python-telegram-bot==13.7
+pymongo==3.11.4
+requests==2.25.1
+genai==1.0.0
+python-dotenv==0.19.2
